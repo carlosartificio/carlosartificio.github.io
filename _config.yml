@@ -57,6 +57,9 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-archives
 
 author:
   name   : "Carlos Valdez"
