@@ -30,6 +30,8 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    env:
+  PAGES_REPO_NWO: carlosartificio/carlosartificio.github.io
     steps:
       - name: Checkout
         uses: actions/checkout@v4
