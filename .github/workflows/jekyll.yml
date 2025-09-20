@@ -56,10 +56,11 @@ jobs:
 
   # Deployment job
   deploy:
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url:
-      runs-on: ubuntu-latest
+      url: https://carlosartificio.github.io
+      
     needs: build
     steps:
       - name: Deploy to GitHub Pages
