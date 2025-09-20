@@ -61,14 +61,14 @@ plugins:
 author:
   name   : "Carlos Valdez"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "IT Specialist | Pursuit Fellow (AI-Native Program) | Brooklyn, NY"
+  bio    : "IT Specialist, Pursuit Fellow (AI-Native Program). Brooklyn, NY"
   links:
     - label: "carlosartesano.com"
       icon: "fas fa-fw fa-link"
       url: "https://carlosartesano.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/carlosartesano"
+      url: "https://twitter.com/carlos_artesano"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/carlosartificio"
@@ -80,7 +80,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/carlosartesano"
+      url: "https://twitter.com/carlos_artesano"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/carlosartificio"
